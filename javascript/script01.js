@@ -1,4 +1,4 @@
 //linked in index.html
 let kasten = document.querySelector('.cardContainerWrapper')
 
-kasten.addEventListener("mouseover",gsggf)
+kasten.addEventListener("mouseover",gsggf)...kasten;
