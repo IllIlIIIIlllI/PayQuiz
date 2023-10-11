@@ -36,7 +36,8 @@ body {
   background-size: cover; 
   background-position: center;
   background-size: cover;
-  background-position: center; 
+  background-position: center;
+  filter: brightness(0.7)
 }
 
 .test2 {
